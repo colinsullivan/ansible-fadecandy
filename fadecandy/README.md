@@ -1,4 +1,6 @@
-# ansible-fadecandy
+ansible-fadecandy
+=========
+
 Ansible role for installing a [Fadecandy](https://github.com/scanlime/fadecandy/) server and configuration.
 
 ## Configuration via host vars
@@ -21,3 +23,13 @@ fadecandy_config:
           [ 0, 50, 64, 12, 'grb' ]
         ]
 ```
+
+License
+-------
+
+MIT
+
+Author Information
+------------------
+
+[colin-sullivan.net](https://colin-sullivan.net/)
