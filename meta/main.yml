@@ -6,4 +6,10 @@ galaxy_info:
   galaxy_tags:
     - fadecandy
     - raspberrypi
+  platforms:
+  - name: Debian
+    versions:
+    - jessie
+    - stretch
+    - buster
 dependencies: []
